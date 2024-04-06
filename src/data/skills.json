@@ -1,0 +1,59 @@
+[
+  {
+    "title": "C++",
+    "imageSrc": "skills/cpp.png"
+  },
+  {
+    "title": "C",
+    "imageSrc": "skills/c.png"
+  },
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/js.png"
+  },
+  {
+    "title": "MySQL",
+    "imageSrc": "skills/mysql.png"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "BootStrap",
+    "imageSrc": "skills/bootstrap.png"
+  },
+  {
+    "title": "Express",
+    "imageSrc": "skills/express-js.png"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "GitHub Pages",
+    "imageSrc": "skills/github.png"
+  },
+  {
+    "title": "Codepen",
+    "imageSrc": "skills/codepen.png"
+  },
+  {
+    "title": "VS Code",
+    "imageSrc": "skills/vscode.png"
+  }
+  
+]

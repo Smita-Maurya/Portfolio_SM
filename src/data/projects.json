@@ -1,0 +1,38 @@
+[
+  {
+    "title": "WonderLust",
+    "imageSrc": "projects/wonderlust.png",
+    "description": "Wonderlust is a fully functional and user-friendly platform designed to provide an experience akin to Airbnb.(Simple, Convinetent, Secure)",
+    "skills": ["JavaScript", "EJS", "CSS"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Smita-Maurya/delta-major-project-"
+  },
+
+  {
+    "title": "Contact Management System",
+    "imageSrc": "projects/contact.png",
+    "description": "Introducing our Contact Management System, powered by C++. Seamlessly organize and access your contacts with efficiency and precision",
+    "skills": ["C++"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Smita-Maurya/Contact--Management--System"
+  },
+  {
+    "title": "HairWays",
+    "imageSrc": "projects/hairways.png",
+    "description": "This website  serves as a bridge between salons and industries , connecting them for mutual benefits.",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://smita-maurya.github.io/HairWays/",
+    "source": "https://github.com/Smita-Maurya/HairWays"
+  },
+  {
+    "title": "Weather App",
+    "imageSrc": "projects/weather.png",
+    "description": "A sleek and intuitive weather application built with ReactJS.Stay informed and prepared for any forecast with our designed React Weather App.",
+    "skills": ["React", "JavaScript"],
+    "demo": "https://66104b9ddaf78d38e4a23d10--admirable-naiad-166835.netlify.app/",
+    "source": "https://github.com/Smita-Maurya/Weather-app-React-"
+  }
+  
+  
+
+]
